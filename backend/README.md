@@ -17,4 +17,4 @@ Any Issues / Help Regarding Setup, Contact Through the telegram Group
 ##### without this the Main GIndex wont work, Both should run simultaneously.
 
 #### Deploy to Heroku Directly:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/iaman1998/gindex/backend/tree/dark-mode-0-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/iaman1998/gindex-v4/backend/tree/dark-mode-0-1)
